@@ -35,8 +35,6 @@ class Education extends Component {
             iconStyle={{
               background: "#AE944F",
               color: "#fff",
-            //   background: "#fff",
-            //   color: "#AE944F",
               textAlign: "center",
             }}
             icon={<i className="fas fa-graduation-cap experience-icon"></i>}
@@ -76,16 +74,12 @@ class Education extends Component {
           </div>
         </div>
         <div className="col-md-8 mx-auto">
-          <VerticalTimeline
-            lineColor="#AE944F"
-            >
+          <VerticalTimeline>
             {education}
             <VerticalTimelineElement
               iconStyle={{
                 background: "#AE944F",
                 color: "#fff",
-                // background: "#fff",
-                // color: "#AE944F",
                 textAlign: "center",
               }}
               icon={
