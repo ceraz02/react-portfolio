@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Ahmad Asyraf AHMAD SAIBUDIN",
-    "titles": ["Front-end Developer", "Back-end Developer", "Full-Stack Developer"],
+    "titles": ["Software Developer", "Embedded Systems Engineer", "Full-Stack Developer"],
     "social": [
       {
         "name": "github",
@@ -19,82 +19,7 @@
   "skills": {
     "categories": [
       {
-        "category": "Langages de programmation",
-        "icons": [
-          {
-            "name": "Python",
-            "class": "devicon-python-plain",
-            "level": "80"
-          },
-          {
-            "name": "C",
-            "class": "devicon-c-plain",
-            "level": "75"
-          },
-          {
-            "name": "C++",
-            "class": "devicon-cplusplus-plain",
-            "level": "70"
-          },
-          {
-            "name": "Java",
-            "class": "devicon-java-plain",
-            "level": "75"
-          },
-          {
-            "name": "VHDL",
-            "class": "custom-icon-vhdl",
-            "level": "70"
-          }
-        ]
-      },
-      {
-        "category": "Interfaces graphiques / GUI",
-        "icons": [
-          {
-            "name": "Qt",
-            "class": "devicon-qt-plain",
-            "level": "70"
-          },
-          {
-            "name": "GTK+",
-            "class": "simple-icons-gtk",
-            "level": "70"
-          },
-          {
-            "name": "Java Swing",
-            "class": "custom-icon-java-swing",
-            "level": "75"
-          }
-        ]
-      },
-      {
-        "category": "Outils de développement",
-        "icons": [
-          {
-            "name": "Git",
-            "class": "devicon-git-plain",
-            "level": "85"
-          },
-          {
-            "name": "GitLab",
-            "class": "devicon-gitlab-plain",
-            "level": "80"
-          },
-          {
-            "name": "Shell/Bash",
-            "class": "devicon-bash-plain",
-            "level": "80"
-          },
-          {
-            "name": "Linux",
-            "class": "devicon-linux-plain",
-            "level": "80"
-          }
-        ]
-      },
-      {
-        "category": "Développement Web Full Stack",
+        "category": "Web Full Stack",
         "icons": [
           {
             "name": "HTML 5",
@@ -149,7 +74,82 @@
         ]
       },
       {
-        "category": "Logiciels & IDEs",
+        "category": "Programming",
+        "icons": [
+          {
+            "name": "Python",
+            "class": "devicon-python-plain",
+            "level": "80"
+          },
+          {
+            "name": "C",
+            "class": "devicon-c-plain",
+            "level": "75"
+          },
+          {
+            "name": "C++",
+            "class": "devicon-cplusplus-plain",
+            "level": "70"
+          },
+          {
+            "name": "Java",
+            "class": "devicon-java-plain",
+            "level": "75"
+          },
+          {
+            "name": "VHDL",
+            "class": "custom-icon-vhdl",
+            "level": "70"
+          }
+        ]
+      },
+      {
+        "category": "GUI",
+        "icons": [
+          {
+            "name": "Qt",
+            "class": "devicon-qt-plain",
+            "level": "70"
+          },
+          {
+            "name": "GTK+",
+            "class": "simple-icons-gtk",
+            "level": "70"
+          },
+          {
+            "name": "Java Swing",
+            "class": "custom-icon-java-swing",
+            "level": "75"
+          }
+        ]
+      },
+      {
+        "category": "Dev Tools",
+        "icons": [
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "85"
+          },
+          {
+            "name": "GitLab",
+            "class": "devicon-gitlab-plain",
+            "level": "80"
+          },
+          {
+            "name": "Shell/Bash",
+            "class": "devicon-bash-plain",
+            "level": "80"
+          },
+          {
+            "name": "Linux",
+            "class": "devicon-linux-plain",
+            "level": "80"
+          }
+        ]
+      },
+      {
+        "category": "Software & IDEs",
         "icons": [
           {
             "name": "VS Code",
@@ -184,7 +184,7 @@
         ]
       },
       {
-        "category": "Bureautique & multimédia",
+        "category": "Office & Multimedia",
         "icons": [
           {
             "name": "Microsoft Office",

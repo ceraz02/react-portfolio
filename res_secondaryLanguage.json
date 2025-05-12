@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Bonjour",
-    "description": "👋 Je suis Ahmad Asyraf Ahmad Saibudin, un étudiant en ingénierie malaisien de 23 ans, passionné par les systèmes embarqués, l'électronique, la robotique et le développement logiciel. Actuellement, je poursuis un diplôme d'ingénieur équivalent en Systèmes Embarqués et IoT à Grenoble INP – Phelma. J'aime construire des applications full-stack avec React et Node.js, et je suis toujours prêt à appliquer les pratiques DevOps et les architectures modernes dans des projets collaboratifs.",
+    "description": "👋 Je suis Ahmad Asyraf Ahmad Saibudin, un étudiant en ingénierie de 23 ans, passionné par les systèmes embarqués, l'électronique, la robotique et le développement logiciel. Actuellement, je poursuis un diplôme d'ingénieur équivalent en Systèmes Embarqués et IoT à Grenoble INP – Phelma. J'aime construire des applications full-stack avec React et Node.js, et je suis toujours prêt à appliquer les pratiques DevOps et les architectures modernes dans des projets collaboratifs.",
     "section_name": {
       "about": "À propos de moi",
       "projects": "Projets",

@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Ahmad Asyraf Ahmad Saibudin, a 23-year-old Malaysian engineering student passionate about embedded systems, electronics, robotics, and software development. I'm currently pursuing a Master’s equivalent degree in Embedded Systems and IoT at Grenoble INP – Phelma. I enjoy building full-stack applications using React and Node.js, and I'm always eager to apply DevOps practices and modern architectures in collaborative projects.",
+    "description": "👋 I'm Ahmad Asyraf Ahmad Saibudin, a 23-year-old engineering student passionate about embedded systems, electronics, robotics, and software development. I'm currently pursuing a Master’s equivalent degree in Embedded Systems and IoT at Grenoble INP – Phelma. I enjoy building full-stack applications using React and Node.js, and I'm always eager to apply DevOps practices and modern architectures in collaborative projects.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
