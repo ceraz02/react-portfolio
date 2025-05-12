@@ -1,118 +1,173 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Ahmad Asyraf Ahmad Saibudin, a 23-year-old Malaysian engineering student passionate about embedded systems, electronics, robotics, and software development. I'm currently pursuing a Master’s equivalent degree in Embedded Systems and IoT at Grenoble INP – Phelma. I enjoy building full-stack applications using React and Node.js, and I'm always eager to apply DevOps practices and modern architectures in collaborative projects.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "education": "Education"
+    }
+  },
+  "projects": [
+    {
+      "title": "Full-Stack Web Application",
+      "startDate": "2025",
+      "description": "Developed a full-stack client-server web application using React.js, Node.js, and Express.js. Implemented REST APIs, WebSockets for real-time communication, Sequelize ORM for database interaction, and conducted end-to-end testing with Cypress. CI/CD integration and deployment on Scalingo using GitLab pipelines.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express.js"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-gitlab-plain",
+          "name": "GitLab CI/CD"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Obstacle-Avoiding Robot",
+      "startDate": "2022",
+      "description": "Led the development of a robot capable of avoiding obstacles using sensors and Arduino. Designed and assembled the hardware, programmed the behavior in C, and won a robotics competition at IUT Nantes.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-arduino-plain",
+          "name": "Arduino"
+        },
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-electron-original",
+          "name": "Electronics"
+        }
+      ]
+    },
+    {
+      "title": "Cross-Platform Qt Application",
+      "startDate": "2023",
+      "description": "During my internship at LS2N, I ported a Windows application to a cross-platform version using C++ and Qt6. The project involved performance optimization and user interface enhancements.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        },
+        {
+          "class": "devicon-qt-plain",
+          "name": "Qt"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Laboratoire des Sciences Numérique de Nantes (LS2N)",
+      "title": "Application Developer Intern",
+      "years": "01.2023 - 03.2023",
+      "mainTech": [
+        "C++",
+        "Qt6"
+      ],
+      "technologies": [
+        "Performance optimization",
+        "Cross-platform development",
+        "UI enhancement"
+      ]
+    },
+    {
+      "company": "Grenoble INP - Phelma",
+      "title": "Full-Stack Web Project (Academic)",
+      "years": "2025",
+      "mainTech": [
+        "React.js",
+        "Node.js",
+        "Express.js"
+      ],
+      "technologies": [
+        "REST API",
+        "WebSockets",
+        "Sequelize ORM",
+        "Cypress",
+        "GitLab CI/CD",
+        "Scalingo"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Grenoble INP – Phelma, France",
+      "degree": "Engineering Degree – Embedded Systems and Connected Objects (SEOC)",
+      "dates": "09/2023 – 07/2026",
+      "focus": [
+        "Digital systems",
+        "Embedded programming",
+        "Full-stack web development"
+      ],
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "CI/CD (GitLab)",
+        "Cypress",
+        "WebSockets",
+        "Sequelize",
+        "Scalingo"
+      ]
+    },
+    {
+      "institution": "IUT of Nantes, France",
+      "degree": "University Bachelor of Technology – Electrical and Industrial Computing Engineering (GEII)",
+      "dates": "09/2021 – 07/2023",
+      "focus": [
+        "Electronics",
+        "Automation",
+        "Industrial computing"
+      ],
+      "technologies": [
+        "C",
+        "VHDL",
+        "KiCad",
+        "Xilinx ISE",
+        "MATLAB",
+        "Arduino"
+      ]
+    },
+    {
+      "institution": "SMKA Tok Bachok, Kelantan, Malaysia",
+      "degree": "Malaysian Certificate of Education (SPM)",
+      "dates": "09/2019",
+      "focus": [
+        "Science specialization"
+      ],
+      "technologies": [
+        "Mathematics",
+        "Physics",
+        "Computer science"
+      ]
+    }
+  ]
+}
