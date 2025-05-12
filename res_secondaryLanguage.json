@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "description_header": "Bonjour",
+    "description": "👋 Je suis Ahmad Asyraf Ahmad Saibudin, un étudiant en ingénierie malaisien de 23 ans, passionné par les systèmes embarqués, l'électronique, la robotique et le développement logiciel. Actuellement, je poursuis un diplôme d'ingénieur équivalent en Systèmes Embarqués et IoT à Grenoble INP – Phelma. J'aime construire des applications full-stack avec React et Node.js, et je suis toujours prêt à appliquer les pratiques DevOps et les architectures modernes dans des projets collaboratifs.",
+    "section_name": {
+      "about": "À propos de moi",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Expérience",
+      "education": "Formation"
+    }
+  },
+  "projects": [
+    {
+      "title": "Application Web Full-Stack",
+      "startDate": "2025",
+      "description": "Développement d'une application web client-serveur full-stack utilisant React.js, Node.js, et Express.js. Mise en œuvre d'APIs REST, WebSockets pour la communication en temps réel, Sequelize ORM pour l'interaction avec la base de données, et tests de bout en bout avec Cypress. Intégration CI/CD et déploiement sur Scalingo en utilisant les pipelines GitLab.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express.js"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-gitlab-plain",
+          "name": "GitLab CI/CD"
+        }
+      ]
+    },
+    {
+      "title": "Robot Éviteur d'Obstacles",
+      "startDate": "2022",
+      "description": "Dirigé le développement d'un robot capable d'éviter les obstacles à l'aide de capteurs et Arduino. Conception et assemblage du matériel, programmation du comportement en C, et remporté un concours de robotique à l'IUT de Nantes.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-arduino-plain",
+          "name": "Arduino"
+        },
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-electron-original",
+          "name": "Électronique"
+        }
+      ]
+    },
+    {
+      "title": "Application Qt Multiplateforme",
+      "startDate": "2023",
+      "description": "Lors de mon stage au LS2N, j'ai porté une application Windows vers une version multiplateforme en utilisant C++ et Qt6. Le projet a impliqué l'optimisation des performances et des améliorations de l'interface utilisateur.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        },
+        {
+          "class": "devicon-qt-plain",
+          "name": "Qt"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Laboratoire des Sciences Numérique de Nantes (LS2N)",
+      "title": "Stagiaire Développeur d'Applications",
+      "years": "01.2023 - 03.2023",
+      "mainTech": [
+        "C++",
+        "Qt6"
+      ],
+      "technologies": [
+        "Optimisation des performances",
+        "Développement multiplateforme",
+        "Amélioration de l'interface utilisateur"
+      ]
+    },
+    {
+      "company": "Grenoble INP - Phelma",
+      "title": "Projet Web Full-Stack (Académique)",
+      "years": "2025",
+      "mainTech": [
+        "React.js",
+        "Node.js",
+        "Express.js"
+      ],
+      "technologies": [
+        "API REST",
+        "WebSockets",
+        "Sequelize ORM",
+        "Cypress",
+        "GitLab CI/CD",
+        "Scalingo"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Grenoble INP – Phelma, France",
+      "degree": "Diplôme d’ingénieur – Systèmes Embarqués et Objets Connectés (SEOC)",
+      "dates": "09/2023 – 07/2026",
+      "focus": [
+        "Systèmes numériques",
+        "Programmation embarquée",
+        "Développement web full-stack"
+      ],
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "CI/CD (GitLab)",
+        "Cypress",
+        "WebSockets",
+        "Sequelize",
+        "Scalingo"
+      ]
+    },
+    {
+      "institution": "IUT de Nantes, France",
+      "degree": "Bachelor Universitaire de Technologie – Génie Électrique Informatique et Industrielle (GEII)",
+      "dates": "09/2021 – 07/2023",
+      "focus": [
+        "Électronique",
+        "Automatisme",
+        "Informatique industrielle"
+      ],
+      "technologies": [
+        "C",
+        "VHDL",
+        "KiCad",
+        "Xilinx ISE",
+        "MATLAB",
+        "Arduino"
+      ]
+    },
+    {
+      "institution": "SMKA Tok Bachok, Kelantan, Malaysia",
+      "degree": "Sijil Pelajaran Malaysia (SPM)",
+      "dates": "09/2019",
+      "focus": [
+        "Spécialisation scientifique"
+      ],
+      "technologies": [
+        "Mathématiques",
+        "Physique",
+        "Informatique"
+      ]
+    }
+  ]
+}

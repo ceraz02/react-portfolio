@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "name": "Ahmad Asyraf AHMAD SAIBUDIN",
+    "titles": ["Front-end Developer", "Back-end Developer", "Full-Stack Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "categories": [
+      {
+        "category": "Langages de programmation",
+        "icons": [
+          {
+            "name": "Python",
+            "class": "devicon-python-plain",
+            "level": "80"
+          },
+          {
+            "name": "C",
+            "class": "devicon-c-plain",
+            "level": "75"
+          },
+          {
+            "name": "C++",
+            "class": "devicon-cplusplus-plain",
+            "level": "70"
+          },
+          {
+            "name": "Java",
+            "class": "devicon-java-plain",
+            "level": "75"
+          },
+          {
+            "name": "VHDL",
+            "class": "custom-icon-vhdl",
+            "level": "70"
+          }
+        ]
+      },
+      {
+        "category": "Interfaces graphiques / GUI",
+        "icons": [
+          {
+            "name": "Qt",
+            "class": "devicon-qt-plain",
+            "level": "70"
+          },
+          {
+            "name": "GTK+",
+            "class": "simple-icons-gtk",
+            "level": "70"
+          },
+          {
+            "name": "Java Swing",
+            "class": "custom-icon-java-swing",
+            "level": "75"
+          }
+        ]
+      },
+      {
+        "category": "Outils de développement",
+        "icons": [
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "85"
+          },
+          {
+            "name": "GitLab",
+            "class": "devicon-gitlab-plain",
+            "level": "80"
+          },
+          {
+            "name": "Shell/Bash",
+            "class": "devicon-bash-plain",
+            "level": "80"
+          },
+          {
+            "name": "Linux",
+            "class": "devicon-linux-plain",
+            "level": "80"
+          }
+        ]
+      },
+      {
+        "category": "Développement Web Full Stack",
+        "icons": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "90"
+          },
+          {
+            "name": "React.js",
+            "class": "devicon-react-original",
+            "level": "85"
+          },
+          {
+            "name": "Node.js",
+            "class": "devicon-nodejs-plain",
+            "level": "80"
+          },
+          {
+            "name": "Express.js",
+            "class": "devicon-express-original",
+            "level": "75"
+          },
+          {
+            "name": "Sequelize",
+            "class": "custom-icon-sequelize",
+            "level": "70"
+          },
+          {
+            "name": "WebSockets",
+            "class": "custom-icon-websockets",
+            "level": "75"
+          },
+          {
+            "name": "Cypress",
+            "class": "custom-icon-cypress",
+            "level": "70"
+          },
+          {
+            "name": "Scalingo",
+            "class": "custom-icon-scalingo",
+            "level": "65"
+          }
+        ]
+      },
+      {
+        "category": "Logiciels & IDEs",
+        "icons": [
+          {
+            "name": "VS Code",
+            "class": "devicon-vscode-plain",
+            "level": "85"
+          },
+          {
+            "name": "Atmel Studio",
+            "class": "custom-icon-atmel-studio",
+            "level": "75"
+          },
+          {
+            "name": "Arduino IDE",
+            "class": "custom-icon-arduino-ide",
+            "level": "75"
+          },
+          {
+            "name": "Qt Creator",
+            "class": "custom-icon-qt-creator",
+            "level": "70"
+          },
+          {
+            "name": "Scilab",
+            "class": "custom-icon-scilab",
+            "level": "70"
+          },
+          {
+            "name": "MATLAB",
+            "class": "devicon-matlab-plain",
+            "level": "65"
+          }
+        ]
+      },
+      {
+        "category": "Bureautique & multimédia",
+        "icons": [
+          {
+            "name": "Microsoft Office",
+            "class": "devicon-microsoft-office-plain",
+            "level": "85"
+          },
+          {
+            "name": "LibreOffice",
+            "class": "custom-icon-libreoffice",
+            "level": "80"
+          }
+        ]
+      }
+    ]
+  }
+}

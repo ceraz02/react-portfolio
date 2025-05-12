@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Ahmad Asyraf Ahmad Saibudin, a 23-year-old Malaysian engineering student passionate about embedded systems, electronics, robotics, and software development. I'm currently pursuing a Master’s equivalent degree in Embedded Systems and IoT at Grenoble INP – Phelma. I enjoy building full-stack applications using React and Node.js, and I'm always eager to apply DevOps practices and modern architectures in collaborative projects.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "education": "Education"
+    }
+  },
+  "projects": [
+    {
+      "title": "Full-Stack Web Application",
+      "startDate": "2025",
+      "description": "Developed a full-stack client-server web application using React.js, Node.js, and Express.js. Implemented REST APIs, WebSockets for real-time communication, Sequelize ORM for database interaction, and conducted end-to-end testing with Cypress. CI/CD integration and deployment on Scalingo using GitLab pipelines.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express.js"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-gitlab-plain",
+          "name": "GitLab CI/CD"
+        }
+      ]
+    },
+    {
+      "title": "Obstacle-Avoiding Robot",
+      "startDate": "2022",
+      "description": "Led the development of a robot capable of avoiding obstacles using sensors and Arduino. Designed and assembled the hardware, programmed the behavior in C, and won a robotics competition at IUT Nantes.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-arduino-plain",
+          "name": "Arduino"
+        },
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-electron-original",
+          "name": "Electronics"
+        }
+      ]
+    },
+    {
+      "title": "Cross-Platform Qt Application",
+      "startDate": "2023",
+      "description": "During my internship at LS2N, I ported a Windows application to a cross-platform version using C++ and Qt6. The project involved performance optimization and user interface enhancements.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        },
+        {
+          "class": "devicon-qt-plain",
+          "name": "Qt"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Laboratoire des Sciences Numérique de Nantes (LS2N)",
+      "title": "Application Developer Intern",
+      "years": "01.2023 - 03.2023",
+      "mainTech": [
+        "C++",
+        "Qt6"
+      ],
+      "technologies": [
+        "Performance optimization",
+        "Cross-platform development",
+        "UI enhancement"
+      ]
+    },
+    {
+      "company": "Grenoble INP - Phelma",
+      "title": "Full-Stack Web Project (Academic)",
+      "years": "2025",
+      "mainTech": [
+        "React.js",
+        "Node.js",
+        "Express.js"
+      ],
+      "technologies": [
+        "REST API",
+        "WebSockets",
+        "Sequelize ORM",
+        "Cypress",
+        "GitLab CI/CD",
+        "Scalingo"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Grenoble INP – Phelma, France",
+      "degree": "Engineering Degree – Embedded Systems and Connected Objects (SEOC)",
+      "dates": "09/2023 – 07/2026",
+      "focus": [
+        "Digital systems",
+        "Embedded programming",
+        "Full-stack web development"
+      ],
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "CI/CD (GitLab)",
+        "Cypress",
+        "WebSockets",
+        "Sequelize",
+        "Scalingo"
+      ]
+    },
+    {
+      "institution": "IUT of Nantes, France",
+      "degree": "University Bachelor of Technology – Electrical and Industrial Computing Engineering (GEII)",
+      "dates": "09/2021 – 07/2023",
+      "focus": [
+        "Electronics",
+        "Automation",
+        "Industrial computing"
+      ],
+      "technologies": [
+        "C",
+        "VHDL",
+        "KiCad",
+        "Xilinx ISE",
+        "MATLAB",
+        "Arduino"
+      ]
+    },
+    {
+      "institution": "SMKA Tok Bachok, Kelantan, Malaysia",
+      "degree": "Malaysian Certificate of Education (SPM)",
+      "dates": "09/2019",
+      "focus": [
+        "Science specialization"
+      ],
+      "technologies": [
+        "Mathematics",
+        "Physics",
+        "Computer science"
+      ]
+    }
+  ]
+}
