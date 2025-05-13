@@ -15,7 +15,10 @@
       "title": "Full-Stack Web Application",
       "startDate": "2025",
       "description": "Developed a full-stack client-server web application using React.js, Node.js, and Express.js. Implemented REST APIs, WebSockets for real-time communication, Sequelize ORM for database interaction, and conducted end-to-end testing with Cypress. CI/CD integration and deployment on Scalingo using GitLab pipelines.",
-      "images": [],
+      "images": [
+        "images/portfolio/web-app/p1.png",
+        "images/portfolio/web-app/p2.png"
+      ],
       "url": "",
       "technologies": [
         {
@@ -48,7 +51,11 @@
       "title": "Obstacle-Avoiding Robot",
       "startDate": "2022",
       "description": "Led the development of a robot capable of avoiding obstacles using sensors and Arduino. Designed and assembled the hardware, programmed the behavior in C, and won a robotics competition at IUT Nantes.",
-      "images": [],
+      "images": [
+        "images/portfolio/robot/p1.jpg",
+        "images/portfolio/robot/p2.png",
+        "images/portfolio/robot/p3.jpg"
+      ],
       "url": "",
       "technologies": [
         {
@@ -69,7 +76,10 @@
       "title": "Cross-Platform Qt Application",
       "startDate": "2023",
       "description": "During my internship at LS2N, I ported a Windows application to a cross-platform version using C++ and Qt6. The project involved performance optimization and user interface enhancements.",
-      "images": [],
+      "images": [
+        "images/portfolio/qt-app/p1.png",
+        "images/portfolio/qt-app/p2.png"
+      ],
       "url": "",
       "technologies": [
         {

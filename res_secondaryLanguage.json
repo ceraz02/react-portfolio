@@ -15,7 +15,10 @@
       "title": "Application Web Full-Stack",
       "startDate": "2025",
       "description": "Développement d'une application web client-serveur full-stack utilisant React.js, Node.js, et Express.js. Mise en œuvre d'APIs REST, WebSockets pour la communication en temps réel, Sequelize ORM pour l'interaction avec la base de données, et tests de bout en bout avec Cypress. Intégration CI/CD et déploiement sur Scalingo en utilisant les pipelines GitLab.",
-      "images": [],
+      "images": [
+        "images/portfolio/web-app/p1.png",
+        "images/portfolio/web-app/p2.png"
+      ],
       "url": "",
       "technologies": [
         {
@@ -48,7 +51,11 @@
       "title": "Robot Éviteur d'Obstacles",
       "startDate": "2022",
       "description": "Dirigé le développement d'un robot capable d'éviter les obstacles à l'aide de capteurs et Arduino. Conception et assemblage du matériel, programmation du comportement en C, et remporté un concours de robotique à l'IUT de Nantes.",
-      "images": [],
+      "images": [
+        "images/portfolio/robot/p1.jpg",
+        "images/portfolio/robot/p2.png",
+        "images/portfolio/robot/p3.jpg"
+      ],
       "url": "",
       "technologies": [
         {
@@ -69,7 +76,10 @@
       "title": "Application Qt Multiplateforme",
       "startDate": "2023",
       "description": "Lors de mon stage au LS2N, j'ai porté une application Windows vers une version multiplateforme en utilisant C++ et Qt6. Le projet a impliqué l'optimisation des performances et des améliorations de l'interface utilisateur.",
-      "images": [],
+      "images": [
+        "images/portfolio/qt-app/p1.png",
+        "images/portfolio/qt-app/p2.png"
+      ],
       "url": "",
       "technologies": [
         {
